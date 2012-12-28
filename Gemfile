@@ -8,6 +8,7 @@ gem 'cells', '~> 3.8'
 gem 'jquery-rails', '2.0.1'
 gem 'kaminari'
 gem 'RedCloth'
+gem 'localeapp'
 
 # event goodies
 gem 'ri_cal'

@@ -4,6 +4,7 @@
 bin/*
 db/*.sqlite3
 log/*.log
+log/localeapp.yml
 tmp/**/*
 tmp/*
 config/*.yml
